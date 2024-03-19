@@ -78,7 +78,7 @@ https://vsrv2.az-streamingserver.com:3958/live/cibaenatvlive.m3u8
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/chunklist_b4628000.m3u8?p=79&s=1654291201&e=1654291321&h=c1121592c4e0b91b7bda5a5e48c0f973
 #EXTINF:-1 tvg-id="CromTV.do" tvg-logo="https://i.imgur.com/jk1lkOV.png" group-title="REP. DOM.",CromTV (480p)
 https://cnn.essastream.com:3333/live/cromtvlive.m3u8
-#EXTINF:-1 tvg-id="Coral 39" tvg-logo="https://teleantillas.com.do/wp-content/uploads/2023/11/Coral-1.png" group-title="REP. DOM." Coral 39
+#EXTINF:-1 tvg-id="Coral 39" tvg-logo="https://teleantillas.com.do/wp-content/uploads/2023/11/Coral-1.png" group-title="REP. DOM.". Coral 39
 https://tv.gmsiptv.com:5443/live/streams/coral.m3u8
 #EXTINF:-1 tvg-id="GHTelevision.do" tvg-logo="https://i.imgur.com/xhkiiO3.png" group-title="Religious",GH Television (1080p)
 https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
