@@ -2,7 +2,7 @@
  # =======================================================
 # Playlist Name: Powervisionflix
 # Playlist ID: 03-24
-# Playlist Date: 18 Marzo del 2024
+# Playlist Date: 23 Marzo del 2024
 # =======================================================
 #EXTINF:-1 tvg-id="AIONTV.do" tvg-logo="https://i.imgur.com/DBvm7YS.png" group-title="REP. DOM.",AION TV
 https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
@@ -17,9 +17,9 @@ http://51.81.93.239:8084/hls/tmicro.m3u8
 #EXTINF:-1 tvg-id="ReadyTVCanal6.do" tvg-logo="https://i.imgur.com/ZONPQhR.png" group-title="REP. DOM.",Ready TV Canal 6
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Antena7 SD (RD)" tvg-logo="https://i.imgur.com/ecrwWe2.png" group-title="REP. DOM.",Antena7 SD (RD)
-https://d1841z6ti5nz2v.cloudfront.net/Antena7DO/34cdaa501a0217ea217d8f4f083c1728.sdp/Antena7DO/Antena7DO1/chunks.m3u8
-#EXTINF:-1 tvg-id="AIONTV.do" tvg-logo="https://i.imgur.com/DBvm7YS.png" group-title="REP. DOM.",AION TV (1080p)
-https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
+http://51.81.106.157:8084/hls/alatina.m3u8
+#EXTINF:-1 tvg-id="DO | Guaymate TV" tvg-name="DO | Guaymate TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2472-800x450-FFFFFF.jpg" group-title="REP. DOM.",Guaymate TV
+https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Color Visión HD (RD)" tvg-logo="https://i.imgur.com/r98hVwB.png" group-title="REP. DOM.",Color Visión HD (RD)
 http://138.59.177.34:8000/play/a04u/index.m3u8
 #EXTINF:-1 tvg-id="Telenord10.do" tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="REP. DOM.",Telenord Canal 10 (720p)
@@ -44,6 +44,8 @@ https://rdn.essastream.com:3400/live/canal18hdlive.m3u8
 https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/mono.m3u8
 #EXTINF:-1 tvg-id="DO | Nexxo TV" tvg-name="DO | Nexxo TV" tvg-logo="https://canalesdominicanos.live/template/images/radios/nexxo-tv-santiago.png" group-title="REP. DOM.",Nexxo TV
 https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
+#EXTINF:-1 tvg-id="DO | Antena 21" tvg-name="DO | Antena 21" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Antena_21_2017.png/revision/latest/scale-to-width-down/300?cb=20210512152824&path-prefix=es" group-title="REP. DOM.",Antena 21
+http://51.81.106.157:8084/hls/a21.m3u8
 #EXTINF:-1,#EXTINF:-1 tvg-id="TVS.do" tvg-logo="https://i.imgur.com/a2YX1oj.jpg" group-title="REP. DOM.",TVSCANAL 22
 https://imagenuniversaltv.net:3741/live/tvslive.m3u8
 #EXTINF:-1 tvg-id="DO | Telefuturo canal 23" tvg-name="DO | Telefuturo canal 23" tvg-logo="https://radiodigitaltv.com/wp-content/uploads/2022/01/telefuturo-canal-23-en-vivo-online.jpg" group-title="REPUBLICA DOMINICANA",Telefuturo canal 23
@@ -78,7 +80,7 @@ https://vsrv2.az-streamingserver.com:3958/live/cibaenatvlive.m3u8
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/chunklist_b4628000.m3u8?p=79&s=1654291201&e=1654291321&h=c1121592c4e0b91b7bda5a5e48c0f973
 #EXTINF:-1 tvg-id="CromTV.do" tvg-logo="https://i.imgur.com/jk1lkOV.png" group-title="REP. DOM.",CromTV (480p)
 https://cnn.essastream.com:3333/live/cromtvlive.m3u8
-#EXTINF:-1 tvg-id="Coral 39" tvg-logo="https://teleantillas.com.do/wp-content/uploads/2023/11/Coral-1.png" group-title="REP. DOM.". Coral 39
+#EXTINF:-1 tvg-id="Coral 39" tvg-logo="https://teleantillas.com.do/wp-content/uploads/2023/11/Coral-1.png" group-title="REP. DOM.", Coral 39
 https://tv.gmsiptv.com:5443/live/streams/coral.m3u8
 #EXTINF:-1 tvg-id="GHTelevision.do" tvg-logo="https://i.imgur.com/xhkiiO3.png" group-title="Religious",GH Television (1080p)
 https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
@@ -86,12 +88,12 @@ https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
 https://rpn3.bozztv.com/ssh101/ssh101/televida/chunks.m3u8
 #EXTINF:-1 tvg-id="RomanaTVCanal42.do" tvg-logo="https://i.imgur.com/EXnsmhx.png" group-title="REP. DOM.",Romana TV Canal 42 (480p)
 https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
-#EXTINF:-1 tvg-id="Telenovisa43.do" tvg-logo="https://i.imgur.com/iHvf3bR.png" group-title="Family;REP. DOM.",Telenovisa 43 (720p)
-https://stream.castr.com/6596360f8738a7e5762486ef/live_252446c0ab2811eea7f3c9e195038c96/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="TV 43" tvg-logo="https://dominicanchannels.com/wp-content/uploads/tv43-254x140.jpg" group-title="Family;REP. DOM.",TV 43 (720p)
+https://ss5.domint.net:3058/tv43_str/tv43/chunklist_w406156820.m3u8
 #EXTINF:-1 tvg-id="Enlace.cr" tvg-logo="https://i.imgur.com/YwUVTmS.png" group-title="Religious",Enlace (720p)
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ClaroVisionTV.do" tvg-logo="https://i.imgur.com/MpTgJMJ.png" group-title="REP. DOM.",Claro Visión TV (720p)
-https://rr1---sn-ab5l6nkd.googlevideo.com/videoplayback?expire=1710723220&ei=NDz3ZYjTM-Dhj-8P8f-iyAQ&ip=138.99.215.147&id=o-AEG1uXD50nmXLD38TtRvJo4E5Z-sr7uLxDRFSg5nAGus&itag=137&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&spc=UWF9f7v1hUIDK_QtextBMUQcU69ucC2u3odgisMX3fSrRWU&vprv=1&svpuc=1&mime=video%2Fmp4&ns=Sbm_aLzBdxrR6EqfqzZT-KMQ&gir=yes&clen=1375036&dur=56.199&lmt=1636838506480411&keepalive=yes&c=WEB_EMBEDDED_PLAYER&sefc=1&txp=5316224&n=m3XGRz4YjVXWQQ&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cxpc%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgQios1IEhKvpMGWMA3Bc0Zi71icTQH_p7rnAAdb_LhecCIQC9Gyx5vm8xr1sveK_2d9JYRd-c0pWP_myFTpfe_x9eGg%3D%3D&pot=Iji8H7wc2eiANv94yFXeSolx6C36V_EvjW7xXNVlkVHFaf519VT_ePZb6mf1Wvt4_XjleJks-DqPWw%3D%3D&redirect_counter=1&cm2rm=sn-qpbpjxa-j0ge7e&req_id=49e15f5b1230a3ee&cms_redirect=yes&cmsv=e&mh=Jx&mm=29&mn=sn-ab5l6nkd&ms=rdu&mt=1710701342&mv=m&mvi=1&...
+https://dominicanchannels.com/promo/off.mp4
 #EXTINF:-1 tvg-id="CieloTV.do" tvg-logo="https://i.imgur.com/2PNw6BA.png" group-title="REP. DOM.",Cielo TV (1080p)
 https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8
 #EXTINF:-1 tvg-id="DO | Amé Televisión" tvg-name="DO | Amé Televisión" tvg-logo="https://www.amecanal47.com/images/ame_47_sm.jpg" group-title="REP. DOM.",Amé Televisión
@@ -125,7 +127,7 @@ https://ss9.domint.net:3032/tvp_str/tvp2111/playlist.m3u8
 #EXTINF:-1 tvg-id="DO | Musavisión" tvg-name="DO | Musavisión" tvg-logo="https://musavision.com/wp-content/uploads/2023/03/musavision-logo-2.png" group-title="REPUBLICA DOMINICANA", Musavisión
 https://soportedvb.click:3827/live/musavisiontvlive.m3u8
 #EXTINF:-1 tvg-id="DO | Telecontacto" tvg-name="DO | Telecontacto" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSd3ktMHGu7sx029OZRAKLzzFmpqtkIBmOiUtw4=s900-c-k-c0x00ffffff-no-rj" group-title="REPUBLICA DOMINICANA",Telecontacto 
-https://vdo1.streamgato.us:3578/live/telecontactohdlive.m3u8
+https://streaming.grupomediosdelnorte.com:19360/telecontacto/480p.m3u8
 #EXTINF:-1 tvg-id="DO | Romana TV" tvg-name="DO | Romana TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/do-romana-tv-2379.jpg" group-title="REPUBLICA DOMINICANA", Romana TV 
 https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
 #EXTINF:-1 tvg-id="DO | Alegre TV" tvg-name="DO | Alegre TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2852-294x165-FFFFFF.jpg" group-title="REPUBLICA DOMINICANA", Alegre TV 
@@ -139,7 +141,7 @@ https://rdn.essastream.com:3042/live/bajotechotvlive.m3u8
 #EXTINF:-1 tvg-id="DO | Delta TV" tvg-name="DO | Delta TV" tvg-logo="https://www.deltatv50.com/wp-content/uploads/2022/11/cropped-DELTA-TV-1536x1437.png" group-title="REPUBLICA DOMINICANA", Delta TV 
 https://rdn.essastream.com:3949/live/deltatv50live.m3u8
 #EXTINF:-1 tvg-id="DO | Ecovisión" tvg-name="DO | Ecovisión" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/af/14/cb/af14cb9a-a6ac-2da9-8a73-2b17a450b0eb/AppIcon-1x_U007emarketing-0-7-85-220.jpeg/1200x630wa.png" group-title="REPUBLICA DOMINICANA", Ecovisión
-https://vdo1.streamgato.us:3014/live/ecovisionlive.m3u8
+https://streaming.grupomediosdelnorte.com:19360/ecovision/1080p.m3u8
 #EXTINF:-1 tvg-id="DO | Maimon TV" tvg-name="DO | Maimon TV" tvg-logo="https://maimontv.com/images/maimon_logo_clear_lg.png" group-title="REPUBLICA DOMINICANA", Maimon TV
 https://ss3.domint.net:3138/mtv_str/maimon/playlist.m3u8
 #EXTINF:-1 tvg-id="DO | TV Higüey" tvg-name="DO | TV Higüey" tvg-logo="https://tvhigueydigital.com/wp-content/uploads/2021/08/preloader.png" group-title="REPUBLICA DOMINICANA", TV Higüey
@@ -148,8 +150,6 @@ https://vdo1.streamgato.us:3046/live/tvhigueycanal12live.m3u8
 https://rdn.essastream.com:3356/live/enntivisiontvlive.m3u8
 #EXTINF:-1 tvg-id="DO | Bonches TV" tvg-name="DO | Bonches TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRql_yYrihFb2ifxgAKGPJEpT-ioQi3-Sx0zzIs4kFi_kq8hijrtauTQDe4cJA0OHunfJI&usqp=CAU" group-title="REPUBLICA DOMINICANA", Bonches TV 
 https://ss5.domint.net:3172/btv_str/bonchestv/playlist.m3u8
-#EXTINF:-1 tvg-id="DO | Constanza TV" tvg-name="DO | Constanza TV" tvg-logo="https://www.constanzatv.com/images/contanzatv_web.png" group-title="REPUBLICA DOMINICANA", 999 | Constanza TV || REPUBLICA DOMINICANA
-https://ss9.domint.net:3026/ctv8_str/contanzatv/playlist.m3u8
 #EXTINF:-1 tvg-id="DO | Roca Visión" tvg-name="DO | Roca Visión" tvg-logo="https://play-lh.googleusercontent.com/dsvf-PoHk6sbLCEGxTQ8eF97c1z246rUIAgIYFhFORX2NBmyBDI1Yh0yxYo_oBY-oN2X=w240-h480-rw" group-title="REPUBLICA DOMINICANA", Roca Visión
 https://vsrv2.az-streamingserver.com:3331/live/rocavisiontvlive.m3u8
 #EXTINF:-1 tvg-id="DO | Nítida TV" tvg-name="DO | Nítida TV" tvg-logo="https://canalesdominicanos.live/template/images/radios/nitida-tv.jpg" group-title="REPUBLICA DOMINICANA", Nítida TV 
@@ -218,8 +218,6 @@ https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
 https://angelistic.live:3785/live/tvoficiallive.m3u8
 #EXTINF:-1 tvg-id="DO | Su Mundo TV" tvg-name="DO | Su Mundo TV" tvg-logo="https://canalesdominicanos.live/template/images/radios/su-mundo-tv.jpg" group-title="REPUBLICA DOMINICANA", 960 | Su Mundo TV || REPUBLICA DOMINICANA
 https://175036.global.ssl.fastly.net/6217e980d5bee0e090792fdf/live_75f5635097ba11ecb9f1255c8fe65a34/tracks-a1/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="DO | Guaymate TV" tvg-name="DO | Guaymate TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2472-800x450-FFFFFF.jpg" group-title="REPUBLICA DOMINICANA", 961 | Guaymate TV || REPUBLICA DOMINICANA
-https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8
 #EXTINF:-1 tvg-id="DO | Caña TV" tvg-name="DO | Caña TV" tvg-logo="https://canalesdominicanos.live/template/images/radios/ca%C3%B1a-tv.png" group-title="REPUBLICA DOMINICANA", 962 | Caña TV || REPUBLICA DOMINICANA
 https://cloudflare.streamgato.us:3177/live/canatvlive.m3u8
 
